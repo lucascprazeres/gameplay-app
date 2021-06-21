@@ -2,13 +2,19 @@
 <img src=".github/logo.svg" width="100">
 </h1>
 
-## Demo
 
-...working on it...
+<div align=center><img src=".github/cover.png" width="500"/></div>
+
+<br />
 
 ## About the project
 
 This project was developed during the Next Level Week Together. It is an app for scheduling gameplays with your frends, with an integration with your Discord account, so you can manage your servers.
+
+
+## Demo
+
+...working on it...
 
 ## Techs
 
