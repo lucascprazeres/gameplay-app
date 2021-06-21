@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Text, View } from 'react-native';
+import { View } from 'react-native';
 import { FlatList } from 'react-native-gesture-handler';
 import { Appointment } from '../../components/Appointment';
 import { ButtonAdd } from '../../components/ButtonAdd';
