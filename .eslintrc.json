@@ -28,6 +28,7 @@
   "rules": {
     "prettier/prettier": "error",
     "camelcase": "off",
+    "react/require-default-props": "off",
     "no-unused-expressions": "off",
     "react/jsx-props-no-spreading": "off",
     "import/prefer-default-export": "off",
