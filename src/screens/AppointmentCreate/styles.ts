@@ -18,7 +18,7 @@ export const styles = StyleSheet.create({
     fontFamily: theme.fonts.title700,
     color: theme.colors.heading,
   },
-  descriptionLabel: {
+  fieldLabel: {
     fontSize: 18,
     fontFamily: theme.fonts.title700,
     color: theme.colors.heading,
@@ -47,6 +47,7 @@ export const styles = StyleSheet.create({
     width: 64,
     height: 68,
     backgroundColor: theme.colors.secondary50,
+    borderColor: theme.colors.secondary50,
     borderWidth: 1,
     borderRadius: 8,
   },
