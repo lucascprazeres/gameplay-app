@@ -8,6 +8,7 @@ export const styles = StyleSheet.create({
     justifyContent: 'space-between',
     alignItems: 'center',
     paddingHorizontal: 24,
+    marginTop: 27,
   },
   title: {
     fontFamily: theme.fonts.title700,
